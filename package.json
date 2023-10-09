@@ -1,0 +1,49 @@
+{
+  "name": "@bot-shiki/koishi-plugin-werewolf",
+  "description": "Touhou werewolf game",
+  "version": "0.3.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "author": "Shigma <shigma10826@gmail.com>",
+  "license": "AGPL-3.0",
+  "repository": "https://github.com/bot-shiki/koishi-plugin-werewolf",
+  "homepage": "https://bot.shig.ma/werewolf/",
+  "koishi": {
+    "description": {
+      "en": "Touhou Werewolf Game",
+      "zh": "东方「人类杀」游戏"
+    },
+    "service": {
+      "required": [
+        "lobby"
+      ]
+    }
+  },
+  "keywords": [
+    "bot",
+    "chatbot",
+    "koishi",
+    "plugin",
+    "game",
+    "lobby",
+    "board",
+    "card",
+    "werewolf",
+    "touhou"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.15.0",
+    "koishi-plugin-lobby": "^0.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.2",
+    "atsc": "^1.2.2",
+    "koishi": "^4.15.0",
+    "koishi-plugin-lobby": "^0.5.0",
+    "typescript": "^5.1.6"
+  }
+}
