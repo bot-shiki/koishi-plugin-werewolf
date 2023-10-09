@@ -1,0 +1,148 @@
+default:
+  6:
+    - - 2
+      - 2
+      - - 1
+        - remilia
+      - - 1
+        - yukari
+  7:
+    - - 2
+      - 3
+      - - 1
+        - remilia
+      - - 1
+        - yukari
+        - mamizou
+    - - 2
+      - 2
+      - - 1
+        - remilia
+      - - 1
+        - yukari
+        - mamizou
+      - - 1
+        - parsee
+  8:
+    - - 2
+      - 3
+      - - 1
+        - remilia
+      - - 1
+        - yukari
+        - mamizou
+        - yuuka
+      - - 1
+        - parsee
+  9:
+    - - 3
+      - 3
+      - - 1
+        - remilia
+      - - 2
+        - yukari
+        - mamizou
+        - yuuka
+  10:
+    - - 3
+      - 3
+      - - 3
+        - remilia
+        - yukari
+        - mamizou
+        - yuuka
+      - - 1
+        - parsee
+        - doremy
+  11:
+    - - 3
+      - 3
+      - - 4
+        - remilia
+        - yukari
+        - mamizou
+        - yuuka
+        - utsuho
+      - - 1
+        - parsee
+        - doremy
+  12:
+    - - 2
+      - 3
+      - - 1
+        - reimu
+      - - 1
+        - rinnosuke
+      - - 4
+        - remilia
+        - yukari
+        - mamizou
+        - yuuka
+        - utsuho
+      - - 1
+        - parsee
+        - doremy
+  13:
+    - - 2
+      - 4
+      - - 1
+        - reimu
+      - - 1
+        - rinnosuke
+      - - 4
+        - remilia
+        - yukari
+        - mamizou
+        - yuuka
+        - utsuho
+      - - 1
+        - parsee
+        - doremy
+  14:
+    - - 2
+      - 5
+      - - 1
+        - reimu
+      - - 1
+        - rinnosuke
+      - - 4
+        - remilia
+        - yukari
+        - mamizou
+        - yuuka
+        - utsuho
+      - - 1
+        - parsee
+        - doremy
+  15:
+    - - 3
+      - 5
+      - - 1
+        - reimu
+      - - 1
+        - rinnosuke
+      - - 4
+        - remilia
+        - yukari
+        - mamizou
+        - yuuka
+        - utsuho
+      - - 1
+        - parsee
+        - doremy
+  16:
+    - - 3
+      - 5
+      - - 1
+        - reimu
+      - - 1
+        - rinnosuke
+      - - 4
+        - remilia
+        - yukari
+        - mamizou
+        - yuuka
+        - utsuho
+      - - 1
+        - parsee
+        - doremy
